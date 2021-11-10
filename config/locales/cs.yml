@@ -1,0 +1,22 @@
+ cs:
+  decidim:
+    favorites:
+      favorite_button:
+        add_to_favorites: Přidat k oblíbeným
+        remove_from_favorites: Odstranit z oblíbených
+        sign_in_before_favorite: Přihlaste se a přidejte jako oblíbené
+      favoriting_count:
+        times_added_to_favorites:
+          zero: Toto zatím nikdo nepřidal mezi své oblíbené
+          one: Jedna osoba přidala toto do svých oblíbených
+          other: "%{count} lidí si toto přidalo ke svým oblíbeným"
+      favorites:
+        index:
+          title: Oblíbené
+          description_html: <p> Osobní oblíbené položky můžete přidat pomocí tlačítka Přidat do oblíbených. Objeví se na této stránce. </p>
+          icon_description: "Pomocí této ikony můžete přidat oblíbené položky:"
+        show:
+          title: Oblíbené
+          description_html: <p> Zde vidíte všechny oblíbené položky, které jste přidali v různých fázích procesu. V postranní navigaci můžete vybrat, které oblíbené položky chcete zobrazit. </p>
+        side_panel:
+          show_navigation: Zobrazit navigaci
